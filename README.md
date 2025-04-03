@@ -20,3 +20,11 @@ conda activate sstm
 python SSTM/evaluate.py --model=checkpoints/sstm_t++-sintel.pth --dataset=sintel
 ```
 
+## III. Sample Results
+
+
+Sample results on standard benchmark datasest for optical flow estimation (Sintel and KITTI2015)
+<img src="results/sintel_kitti_results.png">
+
+Sample results on unseen datasets (datasets that were not part of training or validation)
+<img src="results/davis_results.png">
