@@ -7,4 +7,4 @@ Fisseha A. Ferede, Madhusudhanan Balasubramanian<br/>
 
 ## I. Architecture
 
-<img src="Architecture_SSTM++.png">
+<img src="Architecture_SSTM.png">
