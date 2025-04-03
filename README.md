@@ -17,5 +17,6 @@ Fisseha A. Ferede, Madhusudhanan Balasubramanian<br/>
 git clone https://github.com/Computational-Ocularscience/SSTM.git
 conda env create -f sstm.yml
 conda activate sstm
-python SSTM/evaluate.py --model=checkpoints/sstm_t++-sintel.pth --dataset=speckle/sequences
+python SSTM/evaluate.py --model=checkpoints/sstm_t++-sintel.pth --dataset=sintel
 ```
+
