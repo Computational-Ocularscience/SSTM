@@ -28,3 +28,18 @@ The following results visually showcase the superiority of our method compared t
 
 2. Sample results on unseen datasets (datasets that were not part of training or validation)
 <img src="results/davis_results.png">
+
+## IV. Cite
+
+If you find this work useful please cite:
+```
+@article{ferede2023sstm,
+  title={SSTM: Spatiotemporal recurrent transformers for multi-frame optical flow estimation},
+  author={Ferede, Fisseha Admasu and Balasubramanian, Madhusudhanan},
+  journal={Neurocomputing},
+  volume={558},
+  pages={126705},
+  year={2023},
+  publisher={Elsevier}
+}
+```
