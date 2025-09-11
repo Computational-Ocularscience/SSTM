@@ -12,7 +12,7 @@ Fisseha A. Ferede, Madhusudhanan Balasubramanian<br/>
 ## II. Trained Models
 
 Trained models can be downloaded here, [Download Trained Models](https://drive.google.com/drive/folders/1WOSlkLCdjv-Rmm4_K1-RrdiD698BTxe-?usp=sharing)
-`sstm_t++-things.pth, sstm_t++-sintel.pth, sstm_t++-kitti.pth` are trained weights as described in the manuscript.
+`sstm_t++-things.pth, sstm_t++-sintel.pth, sstm_t++-kitti.pth` are trained weights as described in the SSTM manuscript.
 
 Further, fine-tuned weights from our paper, [KinemaNet](https://github.com/Computational-Ocularscience/KinemaNet), are also provided which includes `sstm_t++-speckle-sintel.pth and sstm_t++-speckle.pth` 
 
