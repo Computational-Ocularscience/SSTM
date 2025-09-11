@@ -33,7 +33,7 @@ python SSTM/evaluate.py --model=checkpoints/sstm_t++-sintel.pth --dataset=sintel
 ./train.sh
 ```
 
-## IV. Sample Results
+## V. Sample Results
 The following results visually showcase the superiority of our method compared to other recent state-of-the-art methods. Signifying our methods ability to exploit temporal information across multiple frames to give a more generalized optical flow estimate.
 
 1. Sample results on standard benchmark datasest for optical flow estimation (Sintel and KITTI2015)
@@ -42,7 +42,7 @@ The following results visually showcase the superiority of our method compared t
 2. Sample results on unseen datasets (datasets that were not part of training or validation)
 <img src="results/davis_results.png">
 
-## V. Cite
+## VI. Cite
 
 If you find this work useful please cite:
 ```
